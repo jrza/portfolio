@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1440 320">
     <defs>
-        <filter id="c" width="120" height="120">
+    <filter id="c" width="120" height="120">
             <feOffset in="SourceAlpha" dy="20" />
-            <feGaussianBlur stdDeviation="8" />
+            <feGaussianBlur stdDeviation="10" />
             <feBlend in="SourceGraphic" in2="blurOut" />
         </filter>
     </defs>

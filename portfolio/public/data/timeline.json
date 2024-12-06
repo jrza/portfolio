@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "Co-Founder",
+            "company": "DormPapi",
+            "tasks": "Developed & launched an exclusive cloud-based marketplace for college students, featuring a seamless and intuitive frontend user interface.",
+            "tags": ["Python", "JavaScript", "Azure", "MongoDB"],
+            "year": "Present"
+        },
+        {
+            "title": "Hackathon Team",
+            "company": "YHack: Yale University",
+            "tasks": "Created PitchPerfect: a presentation speaking improvement solution by creating a speech-to-text pipeline processed by AI to generate scores based on speaking semantics.",
+            "tags": ["Python", "OpenAI API", "Vercel", "TypeScript"],
+            "year": "2024"
+        },
+        {
+            "title": "Hackathon Founder's Track",
+            "company": "MHacks: University of Michigan",
+            "tasks": "Selected from 200+ applicants to work with YC mentors, improving startup ideation and developing scalable tech-enabled strategies for emerging markets.",
+            "tags": ["Entrepreneurship" ,"YCombinator", "Collaboration"],
+            "year":"2024"
+        }
+    ]
+}

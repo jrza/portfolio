@@ -7,7 +7,7 @@
 
         <filter id="b" width="120" height="120">
             <feOffset in="SourceAlpha" dy="20" />
-            <feGaussianBlur stdDeviation="8" />
+            <feGaussianBlur stdDeviation="10" />
             <feBlend in="SourceGraphic" in2="blurOut" />
         </filter>
 

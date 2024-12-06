@@ -1,0 +1,26 @@
+{
+    "data":[
+        {
+            "title": "Portfolio Website",
+            "image": "/images/portfolio.webp",
+            "link": "",
+            "tags": ["Next.js", "TypeScript", "React","Recursion :)"],
+            "text": "A website with a smooth design to showcase projects and experiences"
+        },
+        {
+            "title": "Blockchain & NFT development",
+            "image": "/images/blockchain.webp",
+            "link": "https://testnets.opensea.io/collection/nightsandzombies",
+            "tags": ["Solidity", "ETH Net", "OpenSea", "OpenZeppilin"],
+            "text": "Designed ERC-20/721 tokens with Solidity, integrating OpenSea and MetaMask for seamless blockchain solutions."
+        },
+        {
+            "title": "Independent Research: Bias In AI",
+            "image": "/images/research.webp",
+            "link": "https://depaul.digication.com/jazib-waqar-razas-wrd-104/final",
+            "tags": ["AI", "Ethics", "Analysis", "Strategy Development"],
+            "text": "Designed ERC-20/721 tokens with Solidity, integrating OpenSea and MetaMask for seamless blockchain solutions."
+        }
+
+    ]
+}
