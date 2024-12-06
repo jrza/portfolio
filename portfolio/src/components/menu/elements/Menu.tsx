@@ -1,5 +1,5 @@
 
-import ContactButton from './ContactButton';
+{/* import ContactButton from './ContactButton'; */}
 import MenuItem from './MenuItem';
 
 function Menu (){

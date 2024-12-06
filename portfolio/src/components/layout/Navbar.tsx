@@ -2,7 +2,7 @@
 
 import useScrollPos from "@/hooks/useScrollPos";
 import MenuItem from "../menu/elements/MenuItem";
-import ContactButton from "../menu/elements/ContactButton";
+{/* import ContactButton from "../menu/elements/ContactButton"; */}
 
 function Navbar() {
 
