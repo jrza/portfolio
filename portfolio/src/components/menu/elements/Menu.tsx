@@ -8,7 +8,7 @@ function Menu (){
         <MenuItem title={"About"}/>
         <MenuItem title={"Projects"}/>
         <MenuItem title={"Learning"}/>
-        <ContactButton title={"Contact Me"} />
+        {/* <ContactButton title={"Contact Me"} /> */}
         </>);
 }
 

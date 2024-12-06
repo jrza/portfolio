@@ -13,7 +13,7 @@ function Navbar() {
             <MenuItem title={"About"} />
             <MenuItem title={"Projects"} />
             <MenuItem title={"Learning"} />
-            <ContactButton title={"Contact"} />
+            { /*<ContactButton title={"Contact"} /> */}
         </div>
     </div>
 }
